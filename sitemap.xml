@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://vmee.top/categories/index.html</loc>
+    
+    <lastmod>2018-07-11T18:18:04.460Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vmee.top/tags/index.html</loc>
+    
+    <lastmod>2018-07-11T18:18:00.662Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vmee.top/about/index.html</loc>
+    
+    <lastmod>2018-07-11T18:17:55.125Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vmee.top/2018/07/10/creation-hello-world/</loc>
+    
+    <lastmod>2018-07-10T16:56:34.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vmee.top/2018/07/11/gotchas-and-common-mistakes-in-go-golang/</loc>
+    
+    <lastmod>2018-07-10T16:56:34.000Z</lastmod>
+    
+  </url>
+  
+</urlset>
